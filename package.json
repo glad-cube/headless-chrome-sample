@@ -1,0 +1,25 @@
+{
+  "name": "headless-chrome-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromy": "^0.1.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/chromy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glad-cube/headless-chrome-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glad-cube/headless-chrome-sample/issues"
+  },
+  "homepage": "https://github.com/glad-cube/headless-chrome-sample#readme"
+}
